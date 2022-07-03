@@ -1,4 +1,4 @@
-import React, { createElement } from "react";
+// import React, { createElement } from "react";
 
 export const Hello = () => {
   // Menggunakan JSX
